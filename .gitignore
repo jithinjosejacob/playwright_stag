@@ -1,0 +1,5 @@
+node_modules
+.vscode
+trace.zip
+test-results
+mcg-pixel4.png
