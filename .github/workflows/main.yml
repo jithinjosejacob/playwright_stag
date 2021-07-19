@@ -1,0 +1,21 @@
+on:
+  push:
+    branches:
+    - master
+
+jobs:
+  playwright-tests:
+    runs-on: windows-latest # or macos-latest, ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v2 # download code to github actions machine
+
+      - uses: actions/setup-node@v1 # setup nodejs
+
+#      - uses: microsoft/playwright-github-action@v1 # setup to run playwright test scripts
+
+      - name: Install dependencies # install dependancies
+        run: npm ci
+
+      - name: Run Playwright Tests # run tests
+        run: npx playwright test TC001_crossbrowsers.spec.js
