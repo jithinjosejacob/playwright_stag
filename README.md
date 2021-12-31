@@ -1,4 +1,4 @@
-This repo has been created to support the demo for STAG Meetup Talk held on Sep 2021.
+This repo has been created to support the demo for STAG Meetup Talk held on August 2021.
 https://www.linkedin.com/feed/update/urn:li:activity:6838697585939763200/?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A6838697585939763200%29
 
 **Prerequisities**
