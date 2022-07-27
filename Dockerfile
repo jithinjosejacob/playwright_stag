@@ -1,4 +1,4 @@
-# Use Base Image playwright:bionic
+# Use Base Image playwright:bionic.
 FROM mcr.microsoft.com/playwright:bionic
 USER root
 WORKDIR /automation

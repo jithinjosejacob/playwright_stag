@@ -18,10 +18,10 @@
   },
   "homepage": "https://github.com/jithinjosejacob/playwright_stag#readme",
   "devDependencies": {
-    "@playwright/test": "^1.13.1"
+    "@playwright/test": "^1.24.1"
   },
   "dependencies": {
-    "playwright": "^1.13.1",
-    "playwright-firefox": "^1.13.1"
+    "playwright": "^1.24.1",
+    "playwright-firefox": "^1.24.1"
   }
 }

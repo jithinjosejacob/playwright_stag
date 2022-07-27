@@ -12,7 +12,7 @@ module.exports = {
       use: {
         browserName: 'webkit',
         headless: false,
-        ...devices['iPhone 11 Pro'],
+        ...devices['iPhone 15 Pro Max'],
       },
     },
 
