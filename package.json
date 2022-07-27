@@ -1,7 +1,7 @@
 {
   "name": "playwright_stag",
   "version": "1.0.0",
-  "description": "Test",
+  "description": "Playwright Tests for Test Automation",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
